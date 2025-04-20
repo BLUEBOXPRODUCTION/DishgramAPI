@@ -1,7 +1,7 @@
 # DishgramAPI
 # 🚂 Railway Control System API
 
-![GitHub last commit]([https://img.shields.io/github/last-commit/anomal3/DishGram])
+![GitHub last commit](https://img.shields.io/github/last-commit/anomal3/DishGram)
 ![API Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
